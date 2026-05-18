@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**roshankumar-collab/roshankumar-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**roshankumar-collab/roshankumar-collab** is a ✨ _special_ ✨ repository because its `README.md` 
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/roshankumar-collab/roshankumar-collab/blob/output/github-contribution-grid-snake.svg)
