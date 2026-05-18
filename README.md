@@ -47,14 +47,7 @@ I love creating fast, responsive, and scalable web apps.
 - Authentication System (JWT)  
 - Task Manager App  
 
----
 
-## 📫 Contact
-
-- Email: yourmail@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile  
-- Portfolio: https://yourportfolio.com  
-- GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
