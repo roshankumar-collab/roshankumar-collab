@@ -40,14 +40,6 @@ I love creating fast, responsive, and scalable web apps.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Projects
 
 - E-commerce MERN App  
@@ -69,6 +61,9 @@ I love creating fast, responsive, and scalable web apps.
 ## 🔥 Focus
 
 Building full-stack production-ready applications and improving backend skills.
+
+
+---
 
 ## 🐍 Contribution Snake
 
