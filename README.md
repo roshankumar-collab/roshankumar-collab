@@ -25,6 +25,12 @@ I love creating fast, responsive, and scalable web apps.
 ## 🔥 Focus
 
 Building full-stack production-ready applications and improving backend skills.
+---
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshuChauhan149&bg_color=0d1117&color=00ffff&line=00eaff&point=ffffff&area=true&hide_border=true"/>
+</p>
 
 
 ---
