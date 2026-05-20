@@ -86,17 +86,6 @@ Building full-stack production-ready applications and improving backend skills.
     Phone : +91 8610675637
     email: roshanboy4646@gmail.com
  Address:Trichy, Tamilnadu, India 
+--
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Roshan%20Kumar&fontSize=55&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20⚡&descAlign=50&descAlignY=55&animation=twinkling&section=footer"/>
 
- <table align="center">
-<tr>
-<td align="center">
-<a href="https://www.google.com/maps/search/?api=1&query=11-106C-1,+B.+Kotha+Vaddi+Palli,+Balaiahgari+Palli,+Kalakada,+Annamaiah,+Tirupati,+Andhra+Pradesh,+517236" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/navigation.png" width="50"/>
-</a><br>
-<sub><b>Trichy, Tamilnadu, India </b></sub>
-</td>
-</tr>
-</table>
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Thank%20You&fontSize=55&fontAlign=50&fontAlignY=35&desc=Mern%20Stack%20Developer%20⚡&descAlign=50&descAlignY=55&animation=twinkling"/>
