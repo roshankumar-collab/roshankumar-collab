@@ -87,5 +87,5 @@ Building full-stack production-ready applications and improving backend skills.
     email: roshanboy4646@gmail.com
  Address:Trichy, Tamilnadu, India 
 --
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Thank%20you&fontSize=20&fontAlign=50&fontAlignY=35&desc=&descAlign=50&descAlignY=55&animation=twinkling&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Thank%20you&fontSize=20&fontAlign=50&fontAlignY=20&desc=&descAlign=50&descAlignY=55&animation=twinkling&section=footer"/>
 
