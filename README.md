@@ -153,8 +153,7 @@ I love creating fast, responsive, and scalable web apps.
 
 
 ---
-
-## 🐍 Contribution Snake<h2 align="center">🔥 Contribution Overview</h2>
+<h2 align="center">🔥 Contribution Overview</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumar-collab&theme=vision-friendly-dark" />
@@ -162,6 +161,8 @@ I love creating fast, responsive, and scalable web apps.
 
 ---
 
+
+## 🐍 Contribution Snake
 ![Snake animation](https://github.com/roshankumar-collab/roshankumar-collab/blob/output/github-contribution-grid-snake.svg)
 
 ---
