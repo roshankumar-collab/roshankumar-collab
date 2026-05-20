@@ -63,13 +63,89 @@ I love creating fast, responsive, and scalable web apps.
   <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" />
 <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> -->
 </p>
-
-## 🔥 Focus
-
-Building full-stack production-ready applications and improving backend skills.
 ---
-## 📈 Contribution Activity
+<h2 align="center"> 🚀 Most Used Technologies </h2>
 
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="40"/><br>
+<sub>Java</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="40"/><br>
+<sub>Spring</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=hibernate" width="40"/><br>
+<sub>Hibernate</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+<sub>React</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br>
+<sub>JavaScript</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+<sub>HTML</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+<sub>CSS</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
+<sub>MySQL</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
+<sub>MongoDB</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="40"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="40"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>
+<sub>Docker</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>
+<sub>VS Code</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="40"/><br>
+<sub>TypeScript</sub>
+</td>
+
+</tr>
+</table>
+---
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankumar-collab&bg_color=0d1117&color=00ffff&line=00eaff&point=ffffff&area=true&hide_border=true"/>
 </p>
