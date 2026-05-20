@@ -98,6 +98,5 @@ Building full-stack production-ready applications and improving backend skills.
 </tr>
 </table>
 <br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer&animation=fadeIn" />
-</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=Thank%20You&fontSize=55&fontAlign=50&fontAlignY=35&desc=Mern%20Stack%20Developer%20⚡&descAlign=50&descAlignY=55&animation=twinkling"/>
