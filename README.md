@@ -47,16 +47,9 @@ I love creating fast, responsive, and scalable web apps.
 
 ---
 
-## 🚀 Projects
-
-- E-commerce MERN App  
-- Real-time Chat App  
-- Authentication System (JWT)  
-- Task Manager App  
 
 
 
----
 
 ## 🔥 Focus
 
